@@ -1,0 +1,5 @@
+*.a
+!lib.a
+build/
+target/
+doc/*.txt
